@@ -1,0 +1,15 @@
+.vs/
+.idea/
+bin/
+obj/
+*.user
+*.suo
+/.vs
+/src/.vs
+/src/*/bin
+/src/*/obj
+**/packages
+
+*.vspscc
+*.vssscc
+*/.idea
